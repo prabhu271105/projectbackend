@@ -1,0 +1,57 @@
+# ========================
+# Python / Backend
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+env/
+venv/
+.venv/
+*.so
+*.whl
+.Python
+
+# ========================
+# React Native / Expo
+# ========================
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# Environment / Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# OS
+# ========================
+desktop.ini
+ehthumbs.db
